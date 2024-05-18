@@ -1,8 +1,20 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# READ THIS CAREFULLY BEFORE START YOUR CODING!!
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##To run the code
+```sh
+npm run dev
+```
+
+
+## CONTACT WITH ME:
+### Kamrul Hasun Rafi
+<div align="left">
+<a href="https://www.facebook.com/kamrulhasun.rafi" target="blank"><img align="center" src="https://i.ibb.co/6bbvqCG/facebook-256x256.png" alt="mdmahfuzrp" height="30" width="30" /></a>
+<!-- <a href="https://instagram.com/mdmahfuzrp" target="blank"><img align="center" src="https://i.ibb.co/tX0CDxd/instagram-256x256.png" alt="mdmahfuzrp" height="30" width="30" /></a> -->
+<!-- <a href="https://twitter.com/mdmahfuzrp" target="blank"><img align="center" src="https://i.ibb.co/9VDdfFG/twitter-256x256.png" height="30" width="30" /></a> -->
+<a href="https://www.linkedin.com/in/kamrul-hasun-rafi/" target="blank"><img align="center" src="https://i.ibb.co/FgZy8DM/linkedin-original-256x256.png" height="30" width="30" /></a>
+<!-- <a href="https://www.youtube.com/@mdmahfuzrp" target="blank"><img align="center" src="https://i.ibb.co/sq6Bns0/youtube-256x256.png" height="30" width="30" /></a> -->
+</div>
