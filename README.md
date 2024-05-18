@@ -3,7 +3,7 @@
 # READ THIS CAREFULLY BEFORE START YOUR CODING!!
 
 
-##To run the code
+## To run the code
 ```sh
 npm run dev
 ```
