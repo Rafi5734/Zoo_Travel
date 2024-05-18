@@ -1,6 +1,5 @@
 # React + Vite
 
-# READ THIS CAREFULLY BEFORE START YOUR CODING!!
 
 
 ## To run the code
